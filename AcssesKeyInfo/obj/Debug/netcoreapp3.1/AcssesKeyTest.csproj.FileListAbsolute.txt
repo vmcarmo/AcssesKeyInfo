@@ -1,0 +1,13 @@
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\bin\Debug\netcoreapp3.1\AcssesKeyTest.exe
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\bin\Debug\netcoreapp3.1\AcssesKeyTest.deps.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\bin\Debug\netcoreapp3.1\AcssesKeyTest.runtimeconfig.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\bin\Debug\netcoreapp3.1\AcssesKeyTest.runtimeconfig.dev.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\bin\Debug\netcoreapp3.1\AcssesKeyTest.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\bin\Debug\netcoreapp3.1\AcssesKeyTest.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\obj\Debug\netcoreapp3.1\AcssesKeyTest.csprojAssemblyReference.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\obj\Debug\netcoreapp3.1\AcssesKeyTest.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\obj\Debug\netcoreapp3.1\AcssesKeyTest.AssemblyInfo.cs
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\obj\Debug\netcoreapp3.1\AcssesKeyTest.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\obj\Debug\netcoreapp3.1\AcssesKeyTest.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\obj\Debug\netcoreapp3.1\AcssesKeyTest.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyTest\obj\Debug\netcoreapp3.1\AcssesKeyTest.genruntimeconfig.cache
