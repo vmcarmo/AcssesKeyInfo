@@ -7,6 +7,7 @@ namespace AcssesKeyTest
     {
         public static void HandleMenuOption(int option)
         {
+            //testing
             Console.Clear();
             Menu.DrawScreen();
             if (option == 0)
